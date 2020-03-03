@@ -2,6 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://KatieFrey.github.io/stock-portfolio-iex",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -9,6 +10,7 @@
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
     "firebase": "^7.9.3",
+    "gh-pages": "^2.2.0",
     "iexcloud_api_wrapper": "^1.1.5",
     "react": "^16.13.0",
     "react-bootstrap": "^1.0.0-beta.16",
@@ -21,7 +23,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
