@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/stock-portfolio-iex/static/js/main.f0f2bd34.chunk.js",
+    "main.js.map": "/stock-portfolio-iex/static/js/main.f0f2bd34.chunk.js.map",
+    "runtime-main.js": "/stock-portfolio-iex/static/js/runtime-main.24cd97fb.js",
+    "runtime-main.js.map": "/stock-portfolio-iex/static/js/runtime-main.24cd97fb.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/stock-portfolio-iex/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.a5a9409c.chunk.js": "/stock-portfolio-iex/static/js/2.a5a9409c.chunk.js",
+    "static/js/2.a5a9409c.chunk.js.map": "/stock-portfolio-iex/static/js/2.a5a9409c.chunk.js.map",
+    "index.html": "/stock-portfolio-iex/index.html",
+    "precache-manifest.0c1b4e3c7305c6b7d3f36251f3c7c2c4.js": "/stock-portfolio-iex/precache-manifest.0c1b4e3c7305c6b7d3f36251f3c7c2c4.js",
+    "service-worker.js": "/stock-portfolio-iex/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/stock-portfolio-iex/static/css/2.47e06e2e.chunk.css.map",
+    "static/js/2.a5a9409c.chunk.js.LICENSE.txt": "/stock-portfolio-iex/static/js/2.a5a9409c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24cd97fb.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.a5a9409c.chunk.js",
+    "static/js/main.f0f2bd34.chunk.js"
+  ]
+}
